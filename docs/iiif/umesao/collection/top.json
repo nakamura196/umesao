@@ -10,8 +10,14 @@
             "@type": "sc:Collection",
             "label": "フィールド・ノート",
             "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/8_Field_survey/Field_survey_00097/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/collection/top.json",
+            "@type": "sc:Collection",
+            "label": "ローマ字カード",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/047_%E7%84%A1%E9%A1%8C/thu/001-thu.jpg"
         }
-        
     ],
     "vhint": "use-thumb"
 }
