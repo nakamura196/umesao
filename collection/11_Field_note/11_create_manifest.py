@@ -13,7 +13,6 @@ import requests
 prefix = "https://nakamura196.github.io/umesao"
 odir = "../../docs"
 
-
 def get_id_image_map(df_media):
 
     map = {}
