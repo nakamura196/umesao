@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___00113_オープン･ファイル_動物分類実習(瀬戸)_ノート/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "梅棹 忠夫アーカイブズ",
+    "label": "動物分類実習（瀬戸臨海実験所）：京都帝国大学理学部",
+    "license": "http://nmearch.minpaku.ac.jp/umesao-archives/",
+    "metadata": [
+        {
+            "label": NaN,
+            "value": "11"
+        },
+        {
+            "label": NaN,
+            "value": "整理中"
+        },
+        {
+            "label": NaN,
+            "value": "フィールド・ノート 動物分類実習（瀬戸臨海実験所）"
+        },
+        {
+            "label": NaN,
+            "value": "1941年7月　1942年3-4月"
+        },
+        {
+            "label": NaN,
+            "value": "４穴バインダー"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___00113_オープン･ファイル_動物分類実習(瀬戸)_ノート/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___00113_オープン･ファイル_動物分類実習(瀬戸)_ノート/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

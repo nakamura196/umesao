@@ -26,6 +26,7 @@ rows = []
 rows.append(["ID", "title", "Thumbnail", "rights", "manifest", "Relation", "viewingDirection", "viewingHint", "attribution"])
 rows.append(["http://purl.org/dc/terms/identifier", "http://purl.org/dc/terms/title", "http://xmlns.com/foaf/0.1/thumbnail", "http://purl.org/dc/terms/rights", "http://schema.org/url", "http://purl.org/dc/terms/relation", "http://iiif.io/api/presentation/2#viewingDirection", "http://iiif.io/api/presentation/2#viewingHint"])
 rows.append(["Literal", "Literal", "Resource", "Resource", "Resource"])
+rows.append([])
 
 for row in content:
     obj = content[row]

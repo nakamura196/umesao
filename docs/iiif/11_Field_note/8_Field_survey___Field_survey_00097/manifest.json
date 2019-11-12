@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___Field_survey_00097/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "梅棹 忠夫アーカイブズ",
+    "label": "白頭山行",
+    "license": "http://nmearch.minpaku.ac.jp/umesao-archives/",
+    "metadata": [
+        {
+            "label": NaN,
+            "value": "4"
+        },
+        {
+            "label": NaN,
+            "value": "公開中"
+        },
+        {
+            "label": NaN,
+            "value": "フィールド・ノート 「日記及び記録」"
+        },
+        {
+            "label": NaN,
+            "value": "1940年"
+        },
+        {
+            "label": NaN,
+            "value": "ノート型"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___Field_survey_00097/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___Field_survey_00097/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

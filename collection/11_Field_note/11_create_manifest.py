@@ -10,24 +10,10 @@ from PIL import Image
 import yaml
 import requests
 
-prefix = "https://nakamura196.github.io/toyo_iiif"
+prefix = "https://nakamura196.github.io/umesao"
 odir = "../../docs"
 
-'''
-config_path = "/Users/nakamura/git/min_a/lda/src/data/config.yml"
-f = open(config_path, "r+")
-config = yaml.load(f)
 
-image_api = config["prefix"]
-data_dir = config["src_dir"] +"/data"
-path_metadata = data_dir+"/metadata.xlsx"
-path_image = data_dir+"/images.xlsx"
-manifest_dir = "/data/manifest/"
-doc_dir = config["doc_dir"]
-odir = doc_dir+ manifest_dir
-prefix = image_api + manifest_dir
-
-'''
 def get_id_image_map(df_media):
 
     map = {}
@@ -140,6 +126,11 @@ for j in range(4, r_count):
     # manifest_uri = seeAlso.replace("/json/", "/manifest/")
 
     manifest_uri = df_item.iloc[j, manifest_index]
+
+    if pd.isnull(manifest_uri):
+        continue
+
+    print(manifest_uri)
 
     # relation = "http://da.dl.itc.u-tokyo.ac.jp/uv/?manifest="+manifest_uri
     relation = df_item.iloc[j, related_index]

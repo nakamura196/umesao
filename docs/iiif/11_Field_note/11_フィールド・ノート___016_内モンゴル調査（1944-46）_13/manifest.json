@@ -1,0 +1,41 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___016_内モンゴル調査（1944-46）_13/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "梅棹 忠夫アーカイブズ",
+    "label": "内モンゴル調査",
+    "license": "http://nmearch.minpaku.ac.jp/umesao-archives/",
+    "metadata": [
+        {
+            "label": NaN,
+            "value": "34"
+        },
+        {
+            "label": NaN,
+            "value": "公開中"
+        },
+        {
+            "label": NaN,
+            "value": "フィールド・ノート 内モンゴル調査（1944-46） 13_016"
+        },
+        {
+            "label": NaN,
+            "value": "1944-1946年"
+        },
+        {
+            "label": NaN,
+            "value": "手帳型"
+        }
+    ],
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___016_内モンゴル調査（1944-46）_13/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___016_内モンゴル調査（1944-46）_13/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "viewingDirection": "left-to-right"
+}

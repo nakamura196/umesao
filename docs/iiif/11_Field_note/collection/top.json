@@ -1,0 +1,345 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "フィールド・ノート",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___Field_survey_00097/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "白頭山行",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/8_Field_survey/Field_survey_00097/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___00113_オープン･ファイル_動物分類実習(瀬戸)_ノート/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "動物分類実習（瀬戸臨海実験所）：京都帝国大学理学部",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/8_Field_survey/00113_オープン･ファイル_動物分類実習(瀬戸)_ノート/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___001_内モンゴル調査(1944)_48/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/001_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%281944%29_48/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___002_内モンゴル調査(1944、1946)_47/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/002_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%281944%E3%80%811946%29_47/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___003_内モンゴル調査（1944-46）_0/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/003_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_0/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___004_内モンゴル調査（1944-46）_1/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/004_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_1/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___005_内モンゴル調査（1944-46）_2/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/005_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_2/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___006_内モンゴル調査（1944-46）_3/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/006_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_3/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___007_内モンゴル調査（1944-46）_4/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/007_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_4/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___008_内モンゴル調査（1944-46）_5/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/008_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_5/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___009_内モンゴル調査（1944-46）_6/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/009_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_6/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___010_内4モンゴル調査（1944-46）_7/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/010_%E5%86%854%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_7/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___011_内モンゴル調査（1944-46）_8/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/011_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_8/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___012_内モンゴル調査（1944-46）_9/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/012_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_9/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___013_内モンゴル調査（1944-46）_10/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/013_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_10/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___014_内モンゴル調査（1944-46）_11/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/014_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_11/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___015_内モンゴル調査（1944-46）_12/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/015_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_12/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___016_内モンゴル調査（1944-46）_13/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/016_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_13/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___017_内モンゴル調査（1944-46）_14/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/017_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_14/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___018_内モンゴル調査（1944-46）_15/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/018_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_15/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___019_内モンゴル調査（1944-46）_16/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/019_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_16/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___020_内モンゴル調査（1944-46）_17/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/020_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_17/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___021_内モンゴル調査（1944-46）_18/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/021_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_18/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___022_内モンゴル調査（1944-46）_19/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/022_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_19/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___023_内モンゴル調査（1944-46）_20/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/023_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_20/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___024_内モンゴル調査（1944-46）_21/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/024_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_21/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___025_内モンゴル調査（1944-46）_22/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/025_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_22/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___026_内モンゴル調査（1944-46）_23/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/026_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_23/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___027_内モンゴル調査（1944-46）_24/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/027_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_24/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___028_内モンゴル調査（1944-46）_25/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/028_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_25/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___029_内モンゴル調査（1944-46）_26/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/029_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_26/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___030_内モンゴル調査（1944-46）_27/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/030_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_27/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___031_内モンゴル調査（1944-46）_28/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/031_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_28/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___032_内モンゴル調査（1944-46）_29/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/032_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_29/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___033_内モンゴル調査（1944-46）_30/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/033_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_30/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___034_内モンゴル調査（1944-46）_31/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/034_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_31/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___035_内モンゴル調査（1944-46）_32/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/035_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_32/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___036_内モンゴル調査（1944-46）_36/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/036_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_36/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___037_内モンゴル調査（1944-46）_37/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/037_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_37/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___038_内モンゴル調査（1944-46）_38/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/038_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_38/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___039_内モンゴル調査（1944-46）_39/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/039_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_39/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___040_内モンゴル調査（1944-46）_40/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/040_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_40/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___041_内モンゴル調査（1944-46）_41/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/041_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_41/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___042_内モンゴル調査（1944-46）_42/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/042_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_42/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___043_内モンゴル調査（1944-46）_43/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/043_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_43/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___044_内モンゴル調査（1944-46）_44/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/044_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_44/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___045_内モンゴル調査（1944-46）_45/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/045_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_45/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/11_フィールド・ノート___046_内モンゴル調査（1944-46）_46/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "内モンゴル調査",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/11_%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%BB%E3%83%8E%E3%83%BC%E3%83%88/046_%E5%86%85%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E8%AA%BF%E6%9F%BB%EF%BC%881944-46%EF%BC%89_46/thu/001-thu.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}

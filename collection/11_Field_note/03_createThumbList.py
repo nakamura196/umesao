@@ -15,20 +15,19 @@ rows.append(["ID", "Thubmnail"])
 for file in sorted(files):
 
     filename = file.split("/")[-1]
-    tmp = filename.replace(".json", "").split("_")
-    page = tmp[1]
 
-    if page == "002":
-        print(filename)
+    print(filename)
 
-        # jsonファイルを読み込む
-        f = open(file)
-        # jsonデータを読み込んだファイルオブジェクトからPythonデータを作成
-        data = json.load(f)
-        # ファイルを閉じる
-        f.close()
+    # jsonファイルを読み込む
+    f = open(file)
+    # jsonデータを読み込んだファイルオブジェクトからPythonデータを作成
+    data = json.load(f)
+    # ファイルを閉じる
+    f.close()
 
-        rows.append([tmp[0], data["thumbnail"]])
+    id = filename.replace(".json", "")
+    id = id[0: len(id) - 4] 
+    rows.append([id, data["thumbnail"]])
 
 import csv
 

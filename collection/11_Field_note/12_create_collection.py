@@ -10,7 +10,7 @@ from PIL import Image
 import yaml
 import requests
 
-prefix = "https://nakamura196.github.io/toyo_iiif"
+prefix = "https://nakamura196.github.io/umesao"
 odir = "../../docs"
 
 def get_collection(df):
@@ -49,10 +49,15 @@ for i in range(0, c_count):
 
 for j in range(4, r_count):
 
+    manifest_uri = df_item.iloc[j, manifest_index]
+
+    if pd.isnull(manifest_uri):
+        continue
+
     manifests.append({
         "@context": "http://iiif.io/api/presentation/2/context.json",
       "@type": "sc:Manifest",
-      "@id": df_item.iloc[j, manifest_index],
+      "@id": manifest_uri,
       "label": df_item.iloc[j, title_index],
       "thumbnail": df_item.iloc[j, thumbnail_index],
     })
