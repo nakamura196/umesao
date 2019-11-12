@@ -1,0 +1,17 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/umesao/iiif/toyo/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "梅棹 忠夫アーカイブズ",
+    "collections": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/11_Field_note/collection/top.json",
+            "@type": "sc:Collection",
+            "label": "フィールド・ノート",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/8_Field_survey/Field_survey_00097/thu/001-thu.jpg"
+        }
+        
+    ],
+    "vhint": "use-thumb"
+}
