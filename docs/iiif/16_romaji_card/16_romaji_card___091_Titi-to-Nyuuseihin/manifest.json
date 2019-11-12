@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "梅棹忠夫アーカイブズ",
+    "label": "091_Titi-to-Nyuuseihin",
+    "license": "http://nmearch.minpaku.ac.jp/umesao-archives/",
+    "related": "http://universalviewer.io/examples/uv/uv.html#?manifest=https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1417,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/annotation/p1-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/canvas/p1",
+                            "resource": {
+                                "@id": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/091_Titi-to-Nyuuseihin/001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1417,
+                                "width": 1734
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/091_Titi-to-Nyuuseihin/thu/001-thu.jpg"
+                    },
+                    "width": 1734
+                },
+                {
+                    "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1417,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/annotation/p2-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/canvas/p2",
+                            "resource": {
+                                "@id": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/091_Titi-to-Nyuuseihin/002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1417,
+                                "width": 1734
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/091_Titi-to-Nyuuseihin/thu/002-thu.jpg"
+                    },
+                    "width": 1734
+                },
+                {
+                    "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1417,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/annotation/p3-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json/canvas/p3",
+                            "resource": {
+                                "@id": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/091_Titi-to-Nyuuseihin/003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1417,
+                                "width": 1734
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/091_Titi-to-Nyuuseihin/thu/003-thu.jpg"
+                    },
+                    "width": 1734
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/091_Titi-to-Nyuuseihin/thu/001-thu.jpg"
+    },
+    "viewingDirection": "left-to-right"
+}

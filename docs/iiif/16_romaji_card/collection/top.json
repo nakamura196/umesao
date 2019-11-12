@@ -1,0 +1,338 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/collection/top.json",
+    "@type": "sc:Collection",
+    "label": "ローマ字カード",
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___047_無題/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "047_無題",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/047_%E7%84%A1%E9%A1%8C/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___048_Kusa,Bokuya/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "048_Kusa,Bokuya",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/048_Kusa%2CBokuya/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___049_Yasei-doubutu/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "049_Yasei-doubutu",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/049_Yasei-doubutu/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___050_Tennen-gensyou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "050_Tennen-gensyou",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/050_Tennen-gensyou/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___051_Kansou-to-siryou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "051_Kansou-to-siryou",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/051_Kansou-to-siryou/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___052_Otori/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "052_Otori",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/052_Otori/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___053_Syuryou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "053_Syuryou",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/053_Syuryou/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___054_Ido/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "054_Ido",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/054_Ido/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___055_Tosatu/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "055_Tosatu",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/055_Tosatu/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___056_Kyosei/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "056_Kyosei",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/056_Kyosei/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___057_Idou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "057_Idou",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/057_Idou/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___058_Mure-to-houboku/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "058_Mure-to-houboku",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/058_Mure-to-houboku/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___059_Katiku-no-masiheri/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "059_Katiku-no-masiheri",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/059_Katiku-no-masiheri/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___060_Kimono/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "060_Kimono",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/060_Kimono/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___061_Sumai/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "061_Sumai",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/061_Sumai/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___062_Nenryou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "062_Nenryou",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/062_Nenryou/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___063_乳製品/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "063_乳製品",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/063_%E4%B9%B3%E8%A3%BD%E5%93%81/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___064_Ke-to-kegawa/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "064_Ke-to-kegawa",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/064_Ke-to-kegawa/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___065_Syuukyou-seikatu/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "065_Syuukyou-seikatu",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/065_Syuukyou-seikatu/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___066_Lama-no-Seikatu/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "066_Lama-no-Seikatu",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/066_Lama-no-Seikatu/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___067_Lama-kyoudan-no-sosiki/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "067_Lama-kyoudan-no-sosiki",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/067_Lama-kyoudan-no-sosiki/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___068_Gaikoku-to-no-Sessyoku/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "068_Gaikoku-to-no-Sessyoku",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/068_Gaikoku-to-no-Sessyoku/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___069_Tiiki-kyoudoutai/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "069_Tiiki-kyoudoutai",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/069_Tiiki-kyoudoutai/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___070_Roudou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "070_Roudou",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/070_Roudou/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___071_Kazoku-to-Sinzoku/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "071_Kazoku-to-Sinzoku",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/071_Kazoku-to-Sinzoku/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___072_Koutuu-kikan/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "072_Koutuu-kikan",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/072_Koutuu-kikan/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___073_Kozin-no-Unmei/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "073_Kozin-no-Unmei",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/073_Kozin-no-Unmei/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___074_Syokugyou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "074_Syokugyou",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/074_Syokugyou/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___075_Kaikyuu/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "075_Kaikyuu",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/075_Kaikyuu/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___076_Seizi-Sosiki/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "076_Seizi-Sosiki",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/076_Seizi-Sosiki/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___077_Keizai-kikou/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "077_Keizai-kikou",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/077_Keizai-kikou/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___078_Kyosyutu-to-Zeikin/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "078_Kyosyutu-to-Zeikin",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/078_Kyosyutu-to-Zeikin/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___079_Ryuutuu-keizai/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "079_Ryuutuu-keizai",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/079_Ryuutuu-keizai/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___080_Seisan-keizai/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "080_Seisan-keizai",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/080_Seisan-keizai/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___081_Syouhi-keizai/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "081_Syouhi-keizai",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/081_Syouhi-keizai/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___082_Kurasimuki/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "082_Kurasimuki",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/082_Kurasimuki/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___083_Katiku(ippan)/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "083_Katiku(ippan)",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/083_Katiku%28ippan%29/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___084_Uma/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "084_Uma",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/084_Uma/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___085_Usi/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "085_Usi",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/085_Usi/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___086_Inu-to-Neko/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "086_Inu-to-Neko",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/086_Inu-to-Neko/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___087_Rakuda/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "087_Rakuda",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/087_Rakuda/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___088_Hituzi-to-Yagi/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "088_Hituzi-to-Yagi",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/088_Hituzi-to-Yagi/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___089_Tabemono/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "089_Tabemono",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/089_Tabemono/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___090_Iroiro/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "090_Iroiro",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/090_Iroiro/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___091_Titi-to-Nyuuseihin/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "091_Titi-to-Nyuuseihin",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/091_Titi-to-Nyuuseihin/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___092_ばら/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "092_ばら",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/092_%E3%81%B0%E3%82%89/thu/001-thu.jpg"
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___093_抜き書きの対訳(仮)/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "093_抜き書きの対訳(仮)",
+            "thumbnail": "http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/093_%E6%8A%9C%E3%81%8D%E6%9B%B8%E3%81%8D%E3%81%AE%E5%AF%BE%E8%A8%B3%28%E4%BB%AE%29/thu/001-thu.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}
