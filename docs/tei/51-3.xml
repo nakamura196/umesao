@@ -1,0 +1,48 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>051_Kansou-to-siryou（乾草と飼料）（乾草）（51-3）</title>
+            <respStmt>
+               <resp when="2019-10-30">TEI Encoding</resp>
+               <name>Satoru Nakamura</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>デジタル源氏物語</distributor>
+            <date when="2019-10-30">2019年10月30日</date>
+            <availability>
+               <p>
+                  <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>梅棹忠夫</author>
+               <title>校異源氏物語</title>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surfaceGrp facs="https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___051_Kansou-to-siryou/manifest.json">
+         <surface>
+            <graphic url="http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/16_romaji_card/051_Kansou-to-siryou/003.jpg" n="https://nakamura196.github.io/umesao/iiif/16_romaji_card/16_romaji_card___051_Kansou-to-siryou/manifest.json/canvas/p3"/>
+            <zone xml:id="zone_wb2_wj1_kkb" lry="338" lrx="412" uly="253" ulx="242"/>
+            <zone xml:id="zone_onp_wj1_kkb" lry="359" lrx="1332" uly="229" ulx="847"/>
+            <zone xml:id="zone_jsy_wj1_kkb" lry="691" lrx="1350" uly="386" ulx="238"/>
+         </surface>
+      </surfaceGrp>
+   </facsimile>
+   <text>
+      <body>
+         <p facs="#zone_wb2_wj1_kkb">乾草</p>
+         <p facs="#zone_onp_wj1_kkb">(273）15-37</p>
+         <div facs="#zone_jsy_wj1_kkb">
+            <p>乾草は刈った。</p>
+            <p>牛車 3 台［分］刈った。自分で刈った。</p>
+            <p>シンディーの近所まで刈りにゆく。</p>
+         </div>
+      </body>
+   </text>
+</TEI>
