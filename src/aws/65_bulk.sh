@@ -1,2 +1,2 @@
-echo data/tmp/bulk_48.json
-curl -XPOST -s -# -O https://search-nakamura1962-c7fo7icjwe2j6u2qsxf3mp2lda.us-east-2.es.amazonaws.com/_bulk --data-binary @data/tmp/bulk_48.json -H 'Content-Type: application/json'
+echo data/tmp/bulk_95.json
+curl -XPOST -s -# -O https://search-nakamura1962-c7fo7icjwe2j6u2qsxf3mp2lda.us-east-2.es.amazonaws.com/_bulk --data-binary @data/tmp/bulk_95.json -H 'Content-Type: application/json'
