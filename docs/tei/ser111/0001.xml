@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>14 （1944-46）内モンゴル調査</title>
+            <respStmt>
+               <resp when="2019-10-30">TEI Encoding</resp>
+               <name>Satoru Nakamura</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>デジタル源氏物語</distributor>
+            <date when="2019-10-30">2019年10月30日</date>
+            <availability>
+               <p>
+                  <ref target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</ref></p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>梅棹忠夫</author>
+               <title>校異源氏物語</title>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surfaceGrp facs="https://api.myjson.com/bins/17gchg">
+         <surface>
+            <graphic url="http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/14_Sketch_list/09/P001_図1.宿営地[和崎洋一？].jpg" n="https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___00113_オープン･ファイル_動物分類実習(瀬戸)_ノート/manifest.json/canvas/p1"/>
+            <zone xml:id="zone_wb2_wj1_kkb" lry="808" lrx="1154" uly="0" ulx="0"/>
+         </surface>
+         <surface>
+            <graphic url="http://nmearch.minpaku.ac.jp/umesao-archives/swipeImage/14_Sketch_list/09/P002_図2.駒つなぎ.jpg" n="https://nakamura196.github.io/umesao/iiif/11_Field_note/8_Field_survey___00113_オープン･ファイル_動物分類実習(瀬戸)_ノート/manifest.json/canvas/p2"/>
+            <zone xml:id="zone_wb2_wj1_kkb_2" lry="568" lrx="800" uly="0" ulx="0"/>
+         </surface>
+      </surfaceGrp>
+   </facsimile>
+   <text>
+      <body>
+         <div facs="#zone_wb2_wj1_kkb">
+            <head>1 ．宿営地</head>
+
+            <p>　モンゴルの草原をウマでゆくと，人家にゆきあたることはまれである。ときどき，まっしろいゲルがぽつんとたっていることがある。</p>
+            <p>　ゲルは，漢語で包パオとよばれているものである。円形家屋で，しろいフェルトでおおわ れている。その形が漢人がこのんでたべる包パオ子ズに似ているというので，漢人はこの名でモンゴル・ゲルをよんでいる。</p>
+            <p>　ゲルというのは家屋のことであって，世帯のことではない。したがって，「あそこに人 家がある」という意味のときは，「あそこにアイルがある」というのである。アイルは， 標準モンゴル語ではアイルだが，チャハル方言ではエールとよばれている。複数のゲル からなりたっているアイルもしばしばある（図 1 ）。それは 1 戸がいくつかのゲルを所有 しているものである。日本人の記述では，しばしばアイルという用語を小集落の意味で つかっている場合があるが，すくなくともチャハルやスニトでは，それはまちがいであ
+               る。数世帯から小集落のことは，ホトという。チャハル方言ではゴトである。</p>
+
+            <p>
+               <lb/>出典　著作集第 2 巻『モンゴル研究』563ページ <lb/>注1　「モンゴル遊牧図譜」の図 1 にもちいられた原画は，その日付の記述方法から，和崎洋一 のスケッチではないかとおもわれる。梅棹は和崎のスケッチをゆずりうけていたようであ る。1950年代に書かれた論文のなかにも和崎のスケッチにもとづくものがある。 <lb/>注 2 　岡田英弘氏のご教示によれば，満州語で家のことをバオといい，それが漢語に取り入れら れた。 <lb/>注 3 　ホトはもともと，複数のゲルで囲まれた空間を指し，ヒツジの寝床を意味する。</p>
+         </div>
+
+         <div facs="#zone_wb2_wj1_kkb_2">
+            <head>2 ．訪問</head>
+
+            <p>　ウマでアイルにちかづくと， 1 km ぐらいはなれたところで，もうイヌが来客を察知 してほえはじめる。ゲルにちかづくと，さらに猛然とほえかかる。ここで絶対にウマか らおりてはならない。イヌはたちまちひとにおそいかかるであろう。イヌがほえたてる 声で，ゲルのなかから家人がでてきて，イヌをおさえる。ここではじめてウマをおりる のである。</p>
+            <p>　アイルのそばにオヤーとよばれる駒つなぎがたっている（図 2 ）。 2 本の杭のあいだ に，綱をはったものである。綱の部分は，ゴシグとよばれる。綱には，ゴルゲとよばれ る鉄の輪がいくつかぶらさがっている。客人はウマの手綱をそれにつなぎとめる。そし て，ゲルのなかに招じいれられる。</p>
+
+            <p>
+               <lb/>出典　著作集第 2 巻『モンゴル研究』563-564ページ <lb/>注 1 　ゴシグというのは，革ひもの編みかたをさしている。図85参照。 <lb/>注 2 　フィールド・ノート 7 番の68ページ，11月12日の記録のなかに，ロープのむすびかたが図 解説明されている。 </p>
+         </div>
+      </body>
+   </text>
+</TEI>
